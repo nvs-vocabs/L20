@@ -1,6 +1,5 @@
 # L20
-SeaDataNet measurand qualifier flags
-Flags used to provide additional information, usually referring to data quality, about data values in SeaDataNet data files.
+SeaDataNet measurand qualifier flags - Flags used to provide additional information, usually referring to data quality, about data values in SeaDataNet data files.
 
 This vocabulary is available from:
 
